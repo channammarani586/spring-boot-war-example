@@ -1,6 +1,6 @@
 pipeline {
     agent {
-      label 'slavedirectory'
+      label 'slaverdirectory'
     }
      tools {
         maven 'maven3' 
